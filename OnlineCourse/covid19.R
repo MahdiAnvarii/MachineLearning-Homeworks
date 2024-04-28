@@ -1,4 +1,3 @@
-setwd("C:/Users/M/Desktop/Hi")
 setRepositories()
 library(data.table)
 library(ggplot2)
